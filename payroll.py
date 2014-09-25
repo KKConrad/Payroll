@@ -1,8 +1,8 @@
 def calculatepay(h,r):
     if h<=40:
-    p=r*h
+        p=r*h
     else:
-    p=r*40+(r*1.5*(h-40))
+        p=r*40+(r*1.5*(h-40))
     return p
   
 try: 
