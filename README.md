@@ -1,4 +1,4 @@
 This-is-a-repository
 ====================
 
-This is a description
+Silly little mindless programs that I'm writing just for fun. 
